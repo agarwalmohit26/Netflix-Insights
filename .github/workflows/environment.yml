@@ -1,0 +1,10 @@
+name: myenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - flake8
+  - pytest
+  - numpy  # Example dependency
+  - pandas # Example dependency
